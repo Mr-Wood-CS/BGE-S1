@@ -2,7 +2,7 @@ site_name: S1 Computing Science
 
 nav:
     - Home: 'index.md'
-    - Term 1 - Web Design & Development:
+    - Term 1 - Web Design & Development (part a):
         #- Term-1/index.md
         #- Turing:
            # - Space Invaders: 'Term-1/02-Hopper/01-Space-Invaders.md'
