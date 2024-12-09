@@ -8,7 +8,7 @@ nav:
            # - Space Invaders: 'Term-1/02-Hopper/01-Space-Invaders.md'
         #- Hopper:
             #- Space Invaders: 'Term-1/02-Hopper/01-Space-Invaders.md'
-    - Term 2 - Pysical Compuiting:
+    - Term 2 - Physical Computing:
       #- Term-2/index.md
       - Turing:
           - Splatoon: 'Term-2/01-Turing/10-Splatoon.md'
