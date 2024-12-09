@@ -11,7 +11,7 @@ nav:
     - Term 2 - Physical Computing:
       #- Term-2/index.md
       - Turing:
-          - Splatoon: './Term-2/01-Turing/10-Splatoon.md'
+          - Splatoon: '../Term-2/01-Turing/10-Splatoon.md'
       #- Hopper: 
           #- Space Invaders: 'SDD/04-Software-Implementation.md'
 
