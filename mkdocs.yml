@@ -4,16 +4,16 @@ nav:
     - Home: 'index.md'
     - Term 1 - Web Design & Development:
         #- Term-1/index.md
-        - Turing:
-            - Space Invaders: 'Term-1/02-Hopper/01-Space-Invaders.md'
-        - Hopper:
-            - Space Invaders: 'Term-1/02-Hopper/01-Space-Invaders.md'
-    - Term 2 - Game Design Principles:
+        #- Turing:
+           # - Space Invaders: 'Term-1/02-Hopper/01-Space-Invaders.md'
+        #- Hopper:
+            #- Space Invaders: 'Term-1/02-Hopper/01-Space-Invaders.md'
+    - Term 2 - Pysical Compuiting:
       #- Term-2/index.md
       - Turing:
-          - Maze Escape: 'Term-2/01-Turing/02-Coin-Catcher.md'
-      - Hopper: 
-          - Space Invaders: 'SDD/04-Software-Implementation.md'
+          - Splatoon: 'Term-2/01-Turing/10-Splatoon.md'
+      #- Hopper: 
+          #- Space Invaders: 'SDD/04-Software-Implementation.md'
 
 markdown_extensions:
   - admonition
