@@ -1,1 +1,53 @@
-site_name: My Docs
+site_name: S1 Computing Science
+
+nav:
+    - Home: 'index.md'
+    #- Term 1 - Web Design & Development (part a):
+        #- Term-1/index.md
+        #- Turing:
+           # - Space Invaders: 'Term-1/02-Hopper/01-Space-Invaders.md'
+        #- Hopper:
+            #- Space Invaders: 'Term-1/02-Hopper/01-Space-Invaders.md'
+    - Term 2 - Physical Computing:
+      #- Term-2/index.md
+      - Turing:
+          - Splatoon: '../Term-2/01-Turing/10-Splatoon.md'
+      #- Hopper: 
+          #- Space Invaders: 'SDD/04-Software-Implementation.md'
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+theme:
+  name: material
+  font:
+    text: Quicksand
+  palette: 
+    - scheme: slate
+      toggle:
+       icon: material/weather-sunny
+       name: Dark mode
+      primary: green
+      accent: deep purple
+
+    - scheme: default
+      toggle:
+       icon: material/weather-night
+       name: Light mode
+      primary: blue
+      accent: deep orange
